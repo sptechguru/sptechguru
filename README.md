@@ -12,13 +12,13 @@
 
 ```javascript
 const santoshPal = {
-  username:   "sptechguru",
+  username:   "santoshPal1698",
   role:       "Full Stack Developer & AI Engineer",
   location:   "Indore, Madhya Pradesh 🇮🇳",
   focus:      ["MERN Stack", "Generative AI", "Agentic AI Systems"],
   learning:   ["LangChain", "AutoGen", "CrewAI", "RAG Pipelines"],
   available:  true, // open to work & collaborations
-  portfolio:  "github.com/sptechguru/mern-portfolio",
+  portfolio:  "github.com/santoshPal1698/mern-portfolio",
   motto:      "Build. Ship. Iterate. Repeat. 🔁"
 };
 ```
@@ -65,12 +65,12 @@ const santoshPal = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sptechguru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sptechguru&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=santoshPal1698&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshPal1698&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sptechguru&theme=tokyonight&hide_border=true" width="100%" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshPal1698&theme=tokyonight&hide_border=true" width="100%" height="170"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sptechguru&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshPal1698&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -79,7 +79,7 @@ const santoshPal = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sptechguru&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=santoshPal1698&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 </div>
 
 ---
@@ -88,10 +88,10 @@ const santoshPal = {
 
 | 🚀 Project | 💡 Description | 🛠️ Stack |
 |---|---|---|
-| [**mern-portfolio**](https://github.com/sptechguru/mern-portfolio) | Full stack developer portfolio with MERN | React, Node, MongoDB |
-| [**NODE_BACKEND_API**](https://github.com/sptechguru/NODE_BACKEND_API) | Production-ready REST API boilerplate | Node.js, Express, JWT |
-| [**JavaScript-Advance**](https://github.com/sptechguru/JavaScript-Advance) | Advanced JS concepts & patterns | JavaScript (ES6+) |
-| [**Angular18**](https://github.com/sptechguru/Angular18) | Modern Angular 18 projects & demos | Angular, TypeScript |
+| [**mern-portfolio**](https://github.com/santoshPal1698/mern-portfolio) | Full stack developer portfolio with MERN | React, Node, MongoDB |
+| [**NODE_BACKEND_API**](https://github.com/santoshPal1698/NODE_BACKEND_API) | Production-ready REST API boilerplate | Node.js, Express, JWT |
+| [**JavaScript-Advance**](https://github.com/santoshPal1698/JavaScript-Advance) | Advanced JS concepts & patterns | JavaScript (ES6+) |
+| [**Angular18**](https://github.com/santoshPal1698/Angular18) | Modern Angular 18 projects & demos | Angular, TypeScript |
 
 ---
 
@@ -109,7 +109,7 @@ const santoshPal = {
 ## 📈 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sptechguru/sptechguru/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/santoshPal1698/santoshPal1698/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 ---
@@ -118,10 +118,10 @@ const santoshPal = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sptechguru)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sptechguru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santoshPal1698)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santoshPal1698)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshpal981@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/sptechguru/mern-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/santoshPal1698/mern-portfolio)
 
 </div>
 
@@ -129,7 +129,7 @@ const santoshPal = {
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sptechguru&label=Profile+Views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=santoshPal1698&label=Profile+Views&color=0e75b6&style=flat)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
